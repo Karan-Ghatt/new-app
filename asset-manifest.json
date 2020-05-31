@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Karan-Ghatt/new-app/static/css/main.f2084247.chunk.css",
+    "main.js": "/Karan-Ghatt/new-app/static/js/main.bfe10d19.chunk.js",
+    "main.js.map": "/Karan-Ghatt/new-app/static/js/main.bfe10d19.chunk.js.map",
+    "runtime-main.js": "/Karan-Ghatt/new-app/static/js/runtime-main.99c14301.js",
+    "runtime-main.js.map": "/Karan-Ghatt/new-app/static/js/runtime-main.99c14301.js.map",
+    "static/js/2.6d8871a7.chunk.js": "/Karan-Ghatt/new-app/static/js/2.6d8871a7.chunk.js",
+    "static/js/2.6d8871a7.chunk.js.map": "/Karan-Ghatt/new-app/static/js/2.6d8871a7.chunk.js.map",
+    "index.html": "/Karan-Ghatt/new-app/index.html",
+    "precache-manifest.f04fb1e2559304df3b8cc85e091be26e.js": "/Karan-Ghatt/new-app/precache-manifest.f04fb1e2559304df3b8cc85e091be26e.js",
+    "service-worker.js": "/Karan-Ghatt/new-app/service-worker.js",
+    "static/css/main.f2084247.chunk.css.map": "/Karan-Ghatt/new-app/static/css/main.f2084247.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99c14301.js",
+    "static/js/2.6d8871a7.chunk.js",
+    "static/css/main.f2084247.chunk.css",
+    "static/js/main.bfe10d19.chunk.js"
+  ]
+}
